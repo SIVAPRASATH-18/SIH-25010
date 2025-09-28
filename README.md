@@ -69,6 +69,7 @@ Agriculture, FoodTech & Rural Development
 - Deployment – Launch the solution in the target environment.
 - Monitoring & Maintenance – Continuously track performance and apply updates or fixes.
 <b></b></li></ul>
+
 ![alt text](<Screenshot 2025-09-28 161155.png>)
 
 ## Feasibility and Viability
